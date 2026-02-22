@@ -1,5 +1,4 @@
 # FirstGig
-# FirstGig
 
 ![FirstGig](banner.jpg)
 FirstGig is a mobile application designed to help teenagers discover local job opportunities, manage tasks, and receive guidance on navigating the early job market.
