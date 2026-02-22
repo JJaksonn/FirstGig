@@ -4,6 +4,7 @@
 
 ![Build](https://img.shields.io/badge/build-failing-red?style=for-the-badge)
 ![Mood](https://img.shields.io/badge/disappointed-8A2BE2?style=for-the-badge)
+---
 FirstGig is a mobile application designed to help teenagers discover local job opportunities, manage tasks, and receive guidance on navigating the early job market.
 
 The project focuses on providing a clean, simple, and practical experience for young users looking to build work experience.
